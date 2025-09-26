@@ -34,11 +34,10 @@ Netflix-Clone/<br/>
 
   - Open phpMyAdmin.<br/>
   - Create a new database (e.g., netflix_clone).<br/>
-  - Import the provided database.sql file (if included).
 
 4. Access the project in your browser:
 
-  - http://localhost/netflix-clone/
+  - http://localhost/Netflix-Clone/
 
 ---
 
