@@ -1,0 +1,130 @@
+body{
+	background-color: #DF2E38;
+}
+
+.main{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+
+.box{
+	width: 280px;
+	padding: 0px 40px 30px 40px;
+	background-color: black;
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	justify-content: center;
+	border-radius: 18px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.im1 {
+  height: 50px;
+  width: 130px;
+  padding-top: 20px;
+  padding-left: 25%;
+}
+
+
+#line1{
+	font-size: 40px;
+  padding-top: 5px;
+  padding-left: 3%;
+	color: #FFFFFF;
+	font-family: 'Poppins', sans-serif;
+}
+
+.img-1 {
+	width: 360px;
+	border-top-right-radius: 18px;
+	border-top-left-radius: 18px;
+	position: absolute;
+	margin-bottom: 522px;
+}
+
+.img-2 {
+	height: 145px;
+	width: 140px;
+	border-radius: 50%;
+	position: absolute;
+	margin-bottom: 506px;
+}
+
+#line2{
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	color: grey;
+}
+
+#line3{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	padding-bottom: 10px;
+}
+
+.line3-1{
+	display: flex;
+	gap: 8px;
+	background-color: #EFEFEF;
+	justify-content: left;
+	align-items: center;
+	height: 33px;
+	width: 250px;
+	align-content: left;
+	padding: 0px 10px;
+	border-radius: 15px;
+}
+
+.in-edit{
+	border: none;
+	background-color: #EFEFEF;
+	outline: none;
+}
+
+.line4{
+	display: flex;
+	justify-content: center;
+  padding-top: 12px;
+}
+
+.but-edit{
+	width: 144px;
+	height: 32px;
+	border: none;
+	background-color: #E50914 ;
+	color: white;
+	border-radius: 15px;
+	font-size: 18px;
+  display: flex;
+  justify-content: center;
+  text-decoration: unset;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+
+svg:not(:disabled) {
+	cursor: pointer;
+}
+
+#line5{
+	display: flex;
+	justify-content: center;
+	color: grey ;
+	font-family: 'Poppins', sans-serif;
+}
+
+#line5 a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
