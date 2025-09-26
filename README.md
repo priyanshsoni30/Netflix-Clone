@@ -6,13 +6,13 @@ A simple **Netflix Clone** built using **HTML, CSS, and JavaScript** for the fro
 
 ## 📂 Project Structure
 Netflix-Clone/
-│── index.html # Homepage 
-│── 4.html  # Movie UI
-│── style.css # Main stylesheet
-│── main.js # Frontend logic
+│── index.html # Homepage <br/>
+│── 4.html  # Movie UI<br/>
+│── style.css # Main stylesheet<br/>
+│── main.js # Frontend logic<br/>
 │
-│── php/check.php # User login
-│── php/save_data.php # User signup
+│── php/check.php # User login<br/>
+│── php/save_data.php # User signup<br/>
 │
 └── img/ # Images, icons, etc.
 
@@ -22,8 +22,8 @@ Netflix-Clone/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/priyanshsoni30/netflix-clone.git
-   cd netflix-clone
+   git clone https://github.com/priyanshsoni30/Netflix-Clone.git
+   cd Netflix-Clone
    ```
 2. Set up a local server (e.g., XAMPP, WAMP, or MAMP).
 
