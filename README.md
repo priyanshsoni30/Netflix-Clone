@@ -10,10 +10,10 @@ Netflix-Clone/<br/>
 │── 4.html  # Movie UI<br/>
 │── style.css # Main stylesheet<br/>
 │── main.js # Frontend logic<br/>
-│
+│<br/>
 │── php/check.php # User login<br/>
 │── php/save_data.php # User signup<br/>
-│
+│<br/>
 └── img/ # Images, icons, etc.
 
 ---
