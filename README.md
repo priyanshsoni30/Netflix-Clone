@@ -5,7 +5,7 @@ A simple **Netflix Clone** built using **HTML, CSS, and JavaScript** for the fro
 ---
 
 ## 📂 Project Structure
-Netflix-Clone/
+Netflix-Clone/<br/>
 │── index.html # Homepage <br/>
 │── 4.html  # Movie UI<br/>
 │── style.css # Main stylesheet<br/>
